@@ -1,0 +1,29 @@
+.bottom-section{
+    padding-top: 20px;
+}
+.card-select{
+    color: white;
+}
+.payment-header{
+    padding: 10px;
+}
+.invalid{
+    margin: 20px;
+    color: rgb(167, 41, 41);
+}
+.bg-danger-subtle{
+    padding: 10px;
+
+}
+label{
+    display: block;
+}
+.amount{
+    display: inline;
+    width: 295px;
+}
+.paymentmethod{
+    padding: 10px;
+
+
+}
