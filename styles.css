@@ -8,8 +8,11 @@
 
 }
 .card{
-    text-align: center;
     border-radius: 10px;
     border-color: black;
     background-color: gainsboro;
+
+}
+.bodycontent{
+    padding: 100px;
 }
