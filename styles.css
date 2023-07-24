@@ -10,9 +10,12 @@
 .card{
     border-radius: 10px;
     border-color: black;
-    background-color: gainsboro;
+    background-color: rgba(255, 255, 255, 0.486);
 
 }
 .bodycontent{
     padding: 100px;
+}
+body{
+    background-color: tan;
 }
