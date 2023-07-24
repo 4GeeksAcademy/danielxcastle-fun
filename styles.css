@@ -1,29 +1,15 @@
-.bottom-section{
-    padding-top: 20px;
+.bodyclass{
+    margin-left: 200px;
+    margin-right: 200px;
+    
 }
-.card-select{
-    color: white;
-}
-.payment-header{
-    padding: 10px;
-}
-.invalid{
-    margin: 20px;
-    color: rgb(167, 41, 41);
-}
-.bg-danger-subtle{
-    padding: 10px;
+.bodyimg{
+    width: 300px
 
 }
-label{
-    display: block;
-}
-.amount{
-    display: inline;
-    width: 295px;
-}
-.paymentmethod{
-    padding: 10px;
-
-
+.card{
+    text-align: center;
+    border-radius: 10px;
+    border-color: black;
+    background-color: gainsboro;
 }
